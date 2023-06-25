@@ -1,6 +1,6 @@
 <span align="center">
 
-Hello Word! 🤓
+Hello World! 🤓
 
 </span>
 
