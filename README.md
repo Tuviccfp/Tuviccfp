@@ -13,7 +13,7 @@ Hello World! 🤓
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>JavaScript e TypeScript.</strong>
+  🦄 Linguagens: <strong>JavaScript, TypeScript e Java.</strong>
 </p>
 
 <p align="left">
