@@ -71,7 +71,7 @@ Estou sempre buscando evoluir, seja estudando novos padrões de projeto, lendo l
 - 🔐 **APIs RESTful** com autenticação JWT, controle de permissões e arquitetura desacoplada
 - 🧱 Projetos com **separação clara de responsabilidades** — MVC, Service Layer, Repository Pattern
 - 🧪 Código coberto por **testes unitários** com mocks bem estruturados
-- 📱 Interfaces modernas com **React** e **React Native**
+- 📱 Interfaces modernas com **React | Next.Js** e **React Native**
 - ☁️ Integrações com serviços como **Firebase** e deploys na **Vercel**
 
 ---
