@@ -101,5 +101,5 @@ Estou sempre buscando evoluir, seja estudando novos padrões de projeto, lendo l
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="120" />
   <br/>
   <sub>Bora codar! 🚀</sub>
-</div>ZVik7pBtu9dNS/giphy.gif">
+</div>
 </div>
